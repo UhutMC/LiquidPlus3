@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id="LiquidBouncePlus:test" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$" external.system.id="GRADLE" external.system.module.group="net.ccbluex" external.system.module.type="sourceSet" external.system.module.version="0.3" type="JAVA_MODULE" version="4">
+<module external.linked.project.id="BeltaOlier:test" external.linked.project.path="$MODULE_DIR$" external.root.project.path="$MODULE_DIR$" external.system.id="GRADLE" external.system.module.group="net.belta.Olier" external.system.module.type="sourceSet" external.system.module.version="0.0.1" type="JAVA_MODULE" version="4">
   <component name="FacetManager">
     <facet type="minecraft" name="Minecraft">
       <configuration>
@@ -19,8 +19,8 @@
     <content url="file://$MODULE_DIR$/src/test" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="LiquidBouncePlus.api" />
-    <orderEntry type="module" module-name="LiquidBouncePlus.main" />
+    <orderEntry type="module" module-name="BeltaOlier.api" />
+    <orderEntry type="module" module-name="BeltaOlier.main" />
     <orderEntry type="module-library">
       <library>
         <CLASSES>
@@ -39,6 +39,7 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="Gradle: org.projectlombok:lombok:1.18.24" level="project" />
     <orderEntry type="library" name="Gradle: org.spongepowered:mixin:0.7.11-SNAPSHOT" level="project" />
     <orderEntry type="library" name="Gradle: org.yaml:snakeyaml:1.29" level="project" />
     <orderEntry type="library" name="Gradle: com.jagrosh:DiscordIPC:0.4" level="project" />
@@ -111,5 +112,5 @@
     <orderEntry type="library" name="Gradle: tv.twitch:twitch-external-platform:natives-windows-32:4.5" level="project" />
     <orderEntry type="library" name="Gradle: tv.twitch:twitch-external-platform:natives-windows-64:4.5" level="project" />
   </component>
-  <component name="TestModuleProperties" production-module="LiquidBouncePlus.main" />
+  <component name="TestModuleProperties" production-module="BeltaOlier.main" />
 </module>
